@@ -1,3 +1,14 @@
+#Importante instalar python -m pip install -U pip
+#                    python -m pip install -U matplotlib
+# Puede arrojar error por compatibilidad, se puede componer con anaconda
+# cmd: py -m pip install matplotlib
+#      https://www.lfd.uci.edu/~gohlke/pythonlibs/#matplotlib
+# cmd: carpeta de la descarga 
+# cmd: py -m pip install "el nombre del archivo"
+# entrar al lenguaje y detectar version: matplotlib.__version__
+# Ejecutar la prueba de este repositorio para instalar el kernel en caso de que no esté instalado
+# Altas instrucciones las del kev la verdad
+
 import numpy as np
 import matplotlib.pyplot as plt
 
