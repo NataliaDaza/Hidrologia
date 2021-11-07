@@ -11,6 +11,9 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
+
+
 
 def a(x):
     return np.sin(x)
@@ -30,3 +33,4 @@ plt.title("Prueba Hidrología")
 plt.text(4, 0, "Prueba")
 plt.axis(v)
 plt.grid()
+
